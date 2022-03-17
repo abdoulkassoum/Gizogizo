@@ -1,0 +1,20 @@
+header{
+    height: 80vh;
+}
+.two{
+    background: url(bg.jpg);
+}
+.three{
+    background-color: rgba(153, 50, 204, 0.461);
+}
+.four{
+    background: url(electronique.jpg);
+    background-size: 100%;
+}
+.car{
+    background-color: rgba(153, 50, 204, 0.461);
+}
+
+footer{
+   margin: 0;
+}
